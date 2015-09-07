@@ -32,3 +32,10 @@
 		
 		echo "õnne";
 ?>
+<br>
+
+<?php
+
+	echo date ("l, j, F, o")
+
+?>
