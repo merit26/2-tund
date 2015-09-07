@@ -11,7 +11,7 @@
 
 <?php
 
-	$age = 5;
+	$age = 25;
 	// if (loogikatehe) {tõene} else {väär}
 	if($age < 18){
 		echo "alaealine";
@@ -22,6 +22,13 @@
 
 
 
+?>
+<br>
 
-
+<?php
+//see mida korratakse loogelistesse sulgudesse
+	for($i = 0; $i < $age; $i = $i + 1){
+		echo "palju".$i.", ";}
+		
+		echo "õnne";
 ?>
