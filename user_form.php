@@ -12,7 +12,7 @@
 		<input type="email" placeholder="E-post"> <br> <br>
 		<input type="password" placeholder="parool"> <br> <br>
 		
-		<input type="submit" value="logi sisse"
+		<input type="submit" value="logi sisse" <br> <br>
 		
 		<h2>Create user</h2>
 	</body>
